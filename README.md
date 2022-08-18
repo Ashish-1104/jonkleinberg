@@ -1,3 +1,3 @@
 # jonkleinberg
-Learning proect
+Learning project
 About Prof. Jon Kleinberg
